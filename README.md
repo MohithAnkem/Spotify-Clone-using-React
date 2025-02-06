@@ -1,4 +1,4 @@
-Spotify 2.0 Clone Using React and Redux - https://musicapp.saitejagoruganthu.com/
+Spotify 2.0 Clone Using React and Redux
 
 
 Skills: React 18, Redux Toolkit, Node JS, Express JS, Tailwind CSS, RapidAPI.
